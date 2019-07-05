@@ -86,3 +86,7 @@ nav ul li a{
 .links ul li a{
     font-size: 18px;
 }
+.links img{
+    width: 200px;
+    height: auto;
+}
